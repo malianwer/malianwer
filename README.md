@@ -13,7 +13,7 @@ Muhammad Ali is a React Native and React JS Developer with a passion for creatin
 <br/>
 <br/>
 ✌️ Passionate about React programming and eager to share knowledge<br/>
-❤️ Enthusiastic about writing efficient React code and constantly exploring new features<br/>
+❤️ Enthusiastic about writing efficient React code<br/>
 📧 Reach out anytime at alianwer1671@gmail.com for any discussions<br/>
 💬 Feel free to ask me anything about React development, I'm here to help!
 </p>
