@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Muhammad Ali
 =====================================================================================================================================
 
-React Native And Raect JS Developer.
+React Native And React JS Developer.
 ----------------------------
 
-Muhammad Ali is a React Native and React JS Developer with a passion for creating robust applications. He has years of experience in React Development, specializing in JavaScript technologies. Muhammad Ali demonstrates strong communication skills with clients.
+Muhammad Ali is a React Native and React JS Developer with a passion for creating robust applications. He has years of experience in React Development, specializing in JavaScript technologies and he has demonstrates strong communication skills with clients.
 
  ### About me
  
