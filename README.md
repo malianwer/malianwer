@@ -61,10 +61,6 @@ I am a React Native and React JS Developer with a passion for creating robust ap
       <img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="stackoverflow" />
       <br>StackOverFlow
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="48" height="48" alt="styledcomponents" />
-      <br>Styled Components
-    </td>
     </tr>
      <tr> 
        <td align="center" width="96">
@@ -102,11 +98,6 @@ I am a React Native and React JS Developer with a passion for creating robust ap
        <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
       <br>Firebase
-    </td>
-        </td> 
-       <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="xd" />
-      <br>Adobe XD
     </td>
   </tr>
   <tr>
