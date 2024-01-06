@@ -4,15 +4,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React Native And React JS Developer.
 ----------------------------
 
-Muhammad Ali is a React Native and React JS Developer with a passion for creating robust applications. He has years of experience in React Development, specializing in JavaScript technologies and he has demonstrates strong communication skills with clients.
+I am a React Native and React JS Developer with a passion for creating robust applications. I have years of experience in React Development, specializing in JavaScript technologies, and I have demonstrated strong communication skills with clients.
 
  ### About me
  
 <p>
- <img align="right" width="300" height="200" src="https://st2.depositphotos.com/3200537/5745/v/450/depositphotos_57454061-stock-illustration-programming-and-coding-website-deveopment.jpg" alt="React" />
+ <img align="right" width="300" height="200" src="https://www.shutterstock.com/image-vector/concept-computer-programming-developing-software-600nw-2149658841.jpg" alt="React" />
 <br/>
 <br/>
-✌️ Passionate about React programming and eager to share knowledge<br/>
+✌️ Love working with React and always excited to help others<br/>
 ❤️ Enthusiastic about writing efficient React code<br/>
 📧 Reach out anytime at alianwer1671@gmail.com for any discussions<br/>
 💬 Feel free to ask me anything about React development, I'm here to help!
@@ -22,21 +22,96 @@ Muhammad Ali is a React Native and React JS Developer with a passion for creatin
 
 ### Skills
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<table>
+  
+   <tr> 
+   <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Raect" />
+      <br>React
+   </td>
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Raect" />
+      <br>Next
+   </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="HTML" />
+      <br>Typescript
+    </td>
+    <td align="center" width="96">
+     <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Raect" />
+      <br>Sass
+   </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
+      <br>Redux
+    </td>  
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=stackoverflow" width="48" height="48" alt="stackoverflow" />
+      <br>StackOverFlow
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="48" height="48" alt="styledcomponents" />
+      <br>Styled Components
+    </td>
+    </tr>
+     <tr> 
+       <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="48" height="48" alt="css" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="48"  alt="javascript" />
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub" />
+      <br>Github
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" alt="Android" />
+      <br>Android
+    </td>
+      <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="figma" />
+      <br>Figma
+    </td> 
+       <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
+      <br>Firebase
+    </td>
+        </td> 
+       <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=xd" width="48" height="48" alt="xd" />
+      <br>Adobe XD
+    </td>
+  </tr>
+  <tr>
+  </tr>
+</table>
 
 <br/>
 
