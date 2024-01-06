@@ -15,7 +15,7 @@ I am a React Native and React JS Developer with a passion for creating robust ap
 ✌️ Love working with React and always excited to help others<br/>
 ❤️ Enthusiastic about writing efficient React code<br/>
 📧 Reach out anytime at alianwer1671@gmail.com for any discussions<br/>
-💬 Feel free to ask me anything about React development, I'm here to help!
+💬 Feel free to ask me anything
 </p>
 <br/>
 <br/>
